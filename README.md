@@ -42,7 +42,7 @@ The dataset contains information related to:
 - Conditional Formatting
 - Data Cleaning Techniques
 
-## Key Insights
+## Key Insights---
 - Identified top-performing restaurants based on revenue.
 - Determined peak ordering periods.
 - Analyzed customer preferences across food categories.
